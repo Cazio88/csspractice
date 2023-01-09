@@ -1,0 +1,370 @@
+
+.background{
+	background-color: lightblue;
+	size: cover ;
+
+}
+
+#blue-line{
+	height: 10px;
+	background-color: blue;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+	margin-left: 100px;
+	margin-right: 100px;
+	width: 840px; 
+
+}
+
+
+.first-container{
+
+	display: flex;
+	flex-wrap: wrap;
+	background-color: white;
+	margin-left: 100px;
+	margin-right: 100px;
+	border-bottom-left-radius: 20px;
+	border-bottom-right-radius: 20px;
+	padding: 20px;
+	font-family: Poppins;
+	width: 800px;
+	margin-bottom: 30px;
+
+}
+
+.second-container{
+
+display: flex;
+	flex-wrap: wrap;
+	background-color: white;
+	margin-left: 100px;
+	margin-right: 100px;
+	border-radius: 20px;
+	padding: 30px;
+	font-family: Poppins;
+	width: 800px;
+	margin-bottom: 30px;
+}
+
+sup{
+	color: red;
+}
+.ast{
+	color: red;
+}
+
+.second-container label{
+
+
+padding-left: 4px;	
+	
+}
+
+.second-container input{
+	margin-left: 0px;
+	margin-top: 10px;
+	padding-bottom: 10px;
+	border: none;
+	border-bottom: 2px solid lightgrey;
+	height: 20px;
+	width: 750px;
+	
+	}
+.third-container{
+	display: flex;
+	flex-wrap: wrap;
+	background-color: white;
+	margin-left: 100px;
+	margin-right: 100px;
+	border-radius: 20px;
+	padding: 30px;
+	font-family: Poppins;
+	width: 800px;
+	margin-bottom: 30px;
+}
+.third-container label{
+	padding-left: 4px;	
+	}
+.third-container input{
+
+	margin-left: 0px;
+	margin-top: 10px;
+	padding-bottom: 10px;
+	border: none;
+	border-bottom: 2px solid lightgrey;
+	height: 20px;
+	width: 750px;
+	}
+.fourth-container{
+display: flex;
+	flex-wrap: wrap;
+	background-color: white;
+	margin-left: 100px;
+	margin-right: 100px;
+	border-radius: 20px;
+	padding: 30px;
+	font-family: Poppins;
+	width: 800px;
+	margin-bottom: 30px;
+}
+.fourth-container label{
+padding-left: 4px;
+	
+	}
+
+.fourth-container input{
+	margin-left: 0px;
+	margin-top: 10px;
+	padding-bottom: 10px;
+	border: none;
+	border-bottom: 2px solid lightgrey;
+	height: 20px;
+	width: 750px;
+}
+
+.fifth-container{
+display: flex;
+	flex-wrap: wrap;
+	background-color: white;
+	margin-left: 100px;
+	margin-right: 100px;
+	border-radius: 20px;
+	padding: 30px;
+	font-family: Poppins;
+	width: 800px;
+	margin-bottom: 30px;	
+}
+
+.fifth-container label{
+padding-left: 4px;
+	
+	}
+
+.fifth-container input{
+	margin-left: 0px;
+	margin-top: 10px;
+	padding-bottom: 10px;
+	border: none;
+	border-bottom: 2px solid lightgrey;
+	height: 20px;
+	width: 750px;
+}
+
+
+.sixth-container{
+
+	background-color: white;
+	margin-left: 100px;
+	margin-right: 100px;
+	border-radius: 20px;
+	padding: 30px;
+	font-family: Poppins;
+	width: 800px;
+	margin-bottom: 30px;	
+}
+
+.sixth-container label{
+padding-left: 4px;
+	
+	}
+
+.sixth-container input{
+	margin-left: 0px;
+	margin-top: 10px;
+	padding-bottom: 10px;
+	border: none;
+	
+}
+
+.seventh-container{
+
+	background-color: white;
+	margin-left: 100px;
+	margin-right: 100px;
+	border-radius: 20px;
+	padding: 30px;
+	font-family: Poppins;
+	width: 800px;
+	margin-bottom: 30px;	
+}
+
+.seventh-container label{
+padding-left: 4px;
+	
+	}
+
+.seventh-container input{
+	margin-left: 0px;
+	margin-top: 10px;
+	padding-bottom: 10px;
+	border: none;
+	
+}
+
+.eigth-container{
+display: flex;
+	flex-wrap: wrap;
+	background-color: white;
+	margin-left: 100px;
+	margin-right: 100px;
+	border-radius: 20px;
+	padding: 30px;
+	font-family: Poppins;
+	width: 800px;
+	margin-bottom: 30px;
+}
+.eigth-container label{
+padding-left: 4px;
+	
+	}
+
+.eigth-container input{
+	margin-left: 0px;
+	margin-top: 10px;
+	padding-bottom: 10px;
+	border: none;
+	border-bottom: 2px solid lightgrey;
+	height: 20px;
+	width: 750px;
+}
+
+.nineth-container{
+display: flex;
+	flex-wrap: wrap;
+	background-color: white;
+	margin-left: 100px;
+	margin-right: 100px;
+	border-radius: 20px;
+	padding: 30px;
+	font-family: Poppins;
+	width: 800px;
+	margin-bottom: 30px;
+}
+.nineth-container label{
+padding-left: 4px;
+	
+	}
+
+.nineth-container input{
+	margin-left: 0px;
+	margin-top: 10px;
+	padding-bottom: 10px;
+	border: none;
+	border-bottom: 2px solid lightgrey;
+	height: 20px;
+	width: 750px;
+}
+
+
+.tenth-container{
+display: flex;
+	flex-wrap: wrap;
+	background-color: white;
+	margin-left: 100px;
+	margin-right: 100px;
+	border-radius: 20px;
+	padding: 30px;
+	font-family: Poppins;
+	width: 800px;
+	margin-bottom: 30px;
+}
+.tenth-container label{
+padding-left: 4px;
+	
+	}
+
+.tenth-container input{
+	margin-left: 0px;
+	margin-top: 10px;
+	padding-bottom: 10px;
+	border: none;
+	border-bottom: 2px solid lightgrey;
+	height: 20px;
+	width: 750px;
+}
+
+.eleventh-container{
+display: flex;
+	flex-wrap: wrap;
+	background-color: white;
+	margin-left: 100px;
+	margin-right: 100px;
+	border-radius: 20px;
+	padding: 30px;
+	font-family: Poppins;
+	width: 800px;
+	margin-bottom: 30px;
+}
+.eleventh-container label{
+padding-left: 4px;
+	
+	}
+
+.eleventh-container input{
+	margin-left: 0px;
+	margin-top: 10px;
+	padding-bottom: 10px;
+	border: none;
+	border-bottom: 2px solid lightgrey;
+	height: 20px;
+	width: 750px;
+}
+
+#Response{
+	margin-left: 150px;
+	margin-right: 100px;
+	font-family: Poppins;
+}
+
+.submit{
+	display: flex;
+	flex-wrap: wrap;
+	background-color: blue;
+	border: none;
+	width: 80px;
+	border-radius: 10px;
+	height: 40px;
+	margin-left: 50px;
+}
+
+.flex{
+	margin-left: 100px;
+	margin-right: 100px;
+	display: flex;
+	justify-content: center;
+	justify-content: space-between;
+}
+
+.submit input{
+	display: inline;
+	background: none;
+	border: none;
+	font-family: Poppins;
+	padding-left: 20px;
+	color: white;
+}
+
+.reset{
+	display: inline;
+	float: right;
+	background: none;
+	border: none;
+
+}
+.reset input{
+	color: blue;
+	border: none;
+	font-family: Poppins;
+	font-size: 20px;
+	margin-right: 500px;
+	background-color: inherit;
+}
+.progress{
+	margin-left: 350px;
+	
+}
+.progress label{
+	margin-left: 300;
+}
+

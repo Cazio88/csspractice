@@ -1,0 +1,139 @@
+
+
+.name{
+	display: flex;
+	justify-content: center;
+	background-color: #04323A;
+	margin-left: 50px;
+	margin-right: 50px;
+	height: 150px;
+}
+.name h1{
+	color: white;
+	font-family: Cinzel;
+	font-size: 50px;
+
+}
+
+.links{
+	background-color: #DBB199;
+	margin-left: 50px;
+	margin-right: 50px;
+	height: 40px;
+}
+.links a{
+	margin-top: 30px;
+	margin-left: 50px;
+	color: white;
+	font-family: Oswald;
+	font-size: 17px;
+}
+
+
+.background{
+	float: left;
+	background-color: #FEF9E6;
+	margin-left: 50px;
+	margin-top: 0px;
+	height: 100%;
+	width: 400px;
+
+}
+.photo-1 h2{
+	font-family: Oswald;
+	font-size: 30px;
+	margin-left: 30px;
+	margin-bottom: 0px;
+}
+
+#img1{
+	margin-top: 30px;
+	height: 200px;
+	width: 300px;
+	object-position: left;
+	margin-left: 30px;
+}
+
+.background p{
+	font-size: 25px;
+	font-family: Oswald;
+	margin-left: 30px;
+}
+
+.background h2{
+	margin-top: 30px;
+	font-family: Oswald;
+	font-size: 30px;
+	margin-left: 30px;
+}
+
+.background img{
+	margin-top: 30px;
+	height: 200px;
+	width: 300px;
+	object-position: left;
+	margin-left: 30px;
+}
+.background2{
+	margin-left: 50px;
+	float: left;
+	width: 500px;
+}
+.Title-Heading h2{
+	margin-top: 30px;
+	font-family: Oswald;
+	font-size: 30px;
+	margin-left: 30px;
+}
+
+.Title-Heading p{
+	margin-top: 0px;
+	font-family: Oswald;
+	font-size: 15px;
+	margin-left: 30px;
+}
+
+.Title-Heading img{
+
+	margin-top: 10px;
+	height: 300px;
+	width: 650px;
+	margin-left: 30px;
+}
+
+p{
+
+	font-family: Oswald;
+	font-size: 20px;
+	margin-left: 30px;
+}
+
+h2{
+
+font-family: Oswald;
+	font-size: 30px;
+	margin-left: 30px;
+}
+#paragraph img {
+margin-top: 10px;
+	height: 400px;
+	width: 650px;
+	margin-left: 30px;
+
+	
+}
+.footer{
+	clear: both;
+	background-color: #DBB199;
+	height: 80px;
+	margin-left: 50px;
+	margin-right: 50px;
+}
+
+.footer p{
+	padding-top: 20px;
+	text-align: center;
+	color: #04323A;
+	font-family: Oswald;
+	font-size: 30px;
+}

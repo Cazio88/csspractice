@@ -1,0 +1,44 @@
+
+
+.header{
+	float: center;
+	height: 80px;
+	background-color: grey;
+	margin-bottom: 20px;
+	margin-left: 20px;
+	margin-right: 20px;
+
+}
+
+.hero{
+	float: center;
+	height: 300px;
+	background-color: grey;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+}
+
+#flexbox div {
+	background-color: grey;
+	height: 200px;
+	width: 400px;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+#flexbox{
+	display: flex;
+	justify-content: space-between;
+	margin-bottom: 20px;
+	
+}
+
+.footer{
+	float: center;
+	height: 80px;
+	background-color: grey;
+	margin-left: 20px;
+	margin-right: 20px;
+
+}
+
